@@ -124,7 +124,7 @@ This project was developed using AI-assisted pair programming:
 
 | Home / Dashboard | Tasks Screen | Add / Edit Task | Productivity Screen |
 | :---: | :---: | :---: | :---: |
-| *[Screenshot Placeholder]* | *[Screenshot Placeholder]* | *[Screenshot Placeholder]* | *[Screenshot Placeholder]* |
+| <img src="assets/screenshots/dashboard.png" width="220" alt="Home / Dashboard" /> | <img src="assets/screenshots/tasks.png" width="220" alt="Tasks Screen" /> | <img src="assets/screenshots/task_form.png" width="220" alt="Add / Edit Task" /> | <img src="assets/screenshots/productivity.png" width="220" alt="Productivity Screen" /> |
 
 ---
 
