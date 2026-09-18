@@ -157,3 +157,13 @@ This project was developed using AI-assisted pair programming:
    ```bash
    flutter run
    ```
+
+---
+
+## 👨‍💻 Author
+
+**Ahmad bin Haq Nawaz**
+- 📱 Junior Flutter & Mobile App Developer
+- 📧 Email: [ahmadbinhaqnawaz@gmail.com](mailto:ahmadbinhaqnawaz@gmail.com)
+- 🐙 GitHub: [@Ahmad-Codemaster](https://github.com/Ahmad-Codemaster)
+- 📍 Faisalabad, Pakistan
